@@ -2,6 +2,10 @@
 
 `roam-right-arrow.js` is plugin for Roam Research which replace `->` with `→` symbol.
 
+## Preview
+![sample-x4](https://user-images.githubusercontent.com/62214433/114716396-f9edb280-9d6e-11eb-9f92-0887084ae8fa.gif)
+
+
 ## How to use
 
 1. Create `roam/js` page.
@@ -13,7 +17,5 @@
 ![image](https://user-images.githubusercontent.com/62214433/114717032-9dd75e00-9d6f-11eb-92cd-f225361798d7.png)
 
 
-## Preview
-![sample-x4](https://user-images.githubusercontent.com/62214433/114716396-f9edb280-9d6e-11eb-9f92-0887084ae8fa.gif)
 
 
